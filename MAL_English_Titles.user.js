@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         MAL English Titles
-// @version      2.0.4
+// @version      1.0.0
 // @description  Add English Titles to various MyAnimeList pages, whilst still displaying Japanese Titles
 // @author       Animorphs
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @namespace    https://github.com/Animorphs/MAL-English-Titles
+// @namespace    https://github.com/RedTrillixGaming/MAL-English-Titles
 // @include      https://myanimelist.net/*
-// @updateURL    https://raw.githubusercontent.com/Animorphs/MAL-English-Titles/master/MAL_English_Titles.user.js
-// @downloadURL  https://raw.githubusercontent.com/Animorphs/MAL-English-Titles/master/MAL_English_Titles.user.js
+// @updateURL    https://raw.githubusercontent.com/RedTrillixGaming/MAL-English-Titles/master/MAL_English_Titles.user.js
+// @downloadURL  https://raw.githubusercontent.com/RedTrillixGaming/MAL-English-Titles/master/MAL_English_Titles.user.js
 // ==/UserScript==
 
 // Get Japanese titles from page, and send to be translated (addTranslation)
@@ -405,7 +405,7 @@ function translate()
         }
     }
 
-    // History
+    /* // History
     else if (location.href.includes('https://myanimelist.net/history'))
     {
         // Anime Results
@@ -447,7 +447,7 @@ function translate()
                 mangaIds.push(id);
             }
         }
-    }
+    } */
 
     // People
     else if (location.href.includes('https://myanimelist.net/people'))
