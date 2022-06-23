@@ -2,7 +2,7 @@
 // @name         MAL English Titles
 // @version      1.0.0
 // @description  Add English Titles to various MyAnimeList pages (removed history page), whilst still displaying Japanese Titles.
-// @author       redtrillix
+// @author       Animorphs, RedTrillix
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @namespace    https://github.com/RedTrillixGaming/MAL-English-Titles
