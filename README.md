@@ -39,4 +39,4 @@ Add English titles for various Anime and Manga pages on MyAnimeList.net, whilst 
 
 <i>Special thanks to nicegamer7 for their code contributions.</i>
 <br></br>
-<i>This has been forked from https://github.com/Animorphs/MAL-English-Titles all credit where due.</i>
+<i>This has been forked from https://github.com/Animorphs/MAL-English-Titles. All credit where due.</i>
